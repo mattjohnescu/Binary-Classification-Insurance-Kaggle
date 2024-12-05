@@ -9,5 +9,7 @@ Welcome to the 2024 Kaggle Playground Series! We plan to continue in the spirit 
 Your Goal: The objective of this competition is to predict which customers respond positively to an automobile insurance offer.
 
 **Finishing Score:**
-0.87817
-Top 30% of submissions
+
+- 0.87817 ACCURACY
+ 
+- Top 30% of submissions
